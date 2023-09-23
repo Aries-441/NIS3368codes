@@ -28,16 +28,14 @@ zth:666
 
 zth:666
 
-<<<<<<< HEAD
 xhc:line001
 
 xhc:line002
 
 xhc:line003
-=======
-zth:second666
 
-zth:second666
+whx:I am so handsome
 
-zth:second666
->>>>>>> origin/zth
+whx:I want xhc to have a girlfriend
+
+whx:hahahahaha

@@ -30,7 +30,6 @@ zth:666
 
 zth:666
 
-<<<<<<< HEAD
 xhc:line001
 
 xhc:line002
@@ -40,7 +39,6 @@ xhc:line003
 whx:I am so handsome
 
 whx:I want xhc to have a girlfriend
-
 
 whx:hahahahahawhx:I am so handsome
 
